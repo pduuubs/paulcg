@@ -12,9 +12,9 @@ Pour l'installer, ajouter juste le dossier ```paulcg``` à votre projet et "incl
 * ```screen(int width, int height, bool fullscreen, string title)``` - Création de la fenetre et initialisation de la SDL.
 * ```plot(x,y,ColorRGB(R,G,B))``` - Place un pixel de couleur RGB à la position x,y.
 
-## Authors
+## Auteur
 
-* **Paul Planchon** - *Initial work* - [pdubs](https://pdubs.xyz/)
+* **Paul Planchon** - *Travail initial* - [pdubs](https://pdubs.xyz/)
 
 ## License
 
